@@ -15,7 +15,7 @@ const server = http.createServer(app);
 const PORT = process.env.PORT || 4000
 
 
-let feedback = ['nice', 'make the ui bit more attractive']
+let feedback = []
 
 let male = [{
     name: 'Fernandoz',
@@ -133,6 +133,12 @@ function hashing() {
     return start + alphabet + val + id;
 }
 
+app.get("/onlineUsers", async (req, res) => {
+    res.status(200).json({
+        success: true,
+        userData: male.length + female.length,
+    })
+});
 
 app.post("/submitFeedback", async (req, res) => {
 
