@@ -6,7 +6,7 @@ const app = express()
 // https://intouchlive.netlify.app
 // http://localhost:3000
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: 'https://kouchlive.netlify.app',
     credentials: true,
 }));
 app.use(express.json())
