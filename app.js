@@ -49,70 +49,82 @@ let male = [{
     pid: '60B3350',
     summary: "Influencer marketing head 9 to 5. Couch potato & reels scroller 5 to 11. I have worked with major indian influencers and if you are interested in some gossip or insight, then I can make your day.Jk, bound under NDA.Miss those travelling days as an intern and auto wale bhaiya ki exciting stories.Looking for someone with different perpective and domain."
 }]
+
+// let female = [
+//     {
+//         name: 'Yuvika',
+//         age: '19',
+//         gender: 'female',
+//         location: 'India',
+//         pid: '69P2976',
+//         summary: " As a dedicated foodie, pet lover, and part-time author. From exploring street food to cuddling up with my furry friends, life is too kind to me. And in my free time, I plan someone's murder, not to afraid I write crime thriller novels. Hehe "
+//     },
+//     {
+//         name: 'Katrin',
+//         age: '23',
+//         gender: 'female',
+//         location: 'Brazil',
+//         pid: '68E3255',
+//         summary: 'Eat, Job, Club, Sex, Eat, Sleep and Repeat. Hoping to get a break over here. Gosh, connect with me if you are not in a rat race.'
+//     },
+//     {
+//         name: 'Falak',
+//         age: '18',
+//         gender: 'female',
+//         location: 'India',
+//         pid: '60V3348',
+//         summary: "I listen to Desi Hip Hop music (Strange I know). Will be starting my college life soon. Fingers crossed, hope it doesn't end in vain like school life. Loves to stare at stars at night and a big time procrastinator. Hip Hop lovers are invited."
+//     },
+//     {
+//         name: 'Airah',
+//         age: '20',
+//         gender: 'female',
+//         location: 'India',
+//         pid: '60G3350',
+//         summary: "I live in my own world of delulu dreams and fantasy almost full time. I got lot of stories to share and ready to consume also. No time for BF-GF, already committed, just need a good friend to understand me.If you also need one, then I could be the best option for you.If things went right, we might turn it into a long term friendship and might do meet upin future. Hoping for someone good."
+//     },
+//     {
+//         name: 'Ritika',
+//         age: '17',
+//         gender: 'female',
+//         location: 'India',
+//         pid: '60V3350',
+//         summary: "I am a bathroom singer, and gaming enthu. I have played a wide range of games from mobile to console. Assassin's Creed & Riders Republic are my fav. Would love match with gaming buddy and non gaming buddies are welcome to. But keep in mind besides games I might not have much things to talk."
+//     },
+//     {
+//         name: 'Olivia',
+//         age: '26',
+//         gender: 'female',
+//         location: 'USA',
+//         pid: '68Y3255',
+//         summary: " I live in texas, work full time but I usually have free time in the day to talk. Besides for going to work I’m usually a homebody. Like, 99% of the time I’m either at work, home, or helping my single mother. Just got broke up, so no commitments rn. I love watching movies and tv shows, especially action, comedy, thriller, some horror. Love to connect"
+//     },
+//     {
+//         name: 'Eshita',
+//         age: '22',
+//         gender: 'female',
+//         location: 'India',
+//         pid: '68X3255',
+//         summary: "Today was my first day at office and it went horribly bad. I was fucking crying from inside, only I know how I controlled my tears. I am fucking terrified for my next day. And all those people looking me with their wide eyes, is more embarrassing. Looking for someone to release my stress. If anyone went through this experience is much needed."
+//     },
+//     {
+//         name: 'Valentina',
+//         age: '30',
+//         gender: 'female',
+//         location: 'Mexico',
+//         pid: '69Y3255',
+//         summary: "I struggle with depression and chronic pain. I had to give up my profissional life because of my illness and then realised I don't really have any friends. I always had a great relationship with people, but ever since I got sick they have turned their back on me. Looking for positivity and positive friends. High hopes"
+//     },
+// ]
+
 let female = [
-    {
-        name: 'Yuvika',
-        age: '19',
-        gender: 'female',
-        location: 'India',
-        pid: '69P2976',
-        summary: " As a dedicated foodie, pet lover, and part-time author. From exploring street food to cuddling up with my furry friends, life is too kind to me. And in my free time, I plan someone's murder, not to afraid I write crime thriller novels. Hehe "
-    },
-    {
-        name: 'Katrin',
-        age: '23',
-        gender: 'female',
-        location: 'Brazil',
-        pid: '68E3255',
-        summary: 'Eat, Job, Club, Sex, Eat, Sleep and Repeat. Hoping to get a break over here. Gosh, connect with me if you are not in a rat race.'
-    },
-    {
-        name: 'Falak',
-        age: '18',
-        gender: 'female',
-        location: 'India',
-        pid: '60V3348',
-        summary: "I listen to Desi Hip Hop music (Strange I know). Will be starting my college life soon. Fingers crossed, hope it doesn't end in vain like school life. Loves to stare at stars at night and a big time procrastinator. Hip Hop lovers are invited."
-    },
-    {
-        name: 'Airah',
-        age: '20',
-        gender: 'female',
-        location: 'India',
-        pid: '60G3350',
-        summary: "I live in my own world of delulu dreams and fantasy almost full time. I got lot of stories to share and ready to consume also. No time for BF-GF, already committed, just need a good friend to understand me.If you also need one, then I could be the best option for you.If things went right, we might turn it into a long term friendship and might do meet upin future. Hoping for someone good."
-    },
-    {
-        name: 'Ritika',
-        age: '17',
-        gender: 'female',
-        location: 'India',
-        pid: '60V3350',
-        summary: "I am a bathroom singer, and gaming enthu. I have played a wide range of games from mobile to console. Assassin's Creed & Riders Republic are my fav. Would love match with gaming buddy and non gaming buddies are welcome to. But keep in mind besides games I might not have much things to talk."
-    },
-    {
-        name: 'Olivia',
-        age: '26',
-        gender: 'female',
-        location: 'USA',
-        pid: '68Y3255',
-        summary: " I live in texas, work full time but I usually have free time in the day to talk. Besides for going to work I’m usually a homebody. Like, 99% of the time I’m either at work, home, or helping my single mother. Just got broke up, so no commitments rn. I love watching movies and tv shows, especially action, comedy, thriller, some horror. Love to connect"
-    },
     {
         name: 'Eshita',
         age: '22',
         gender: 'female',
         location: 'India',
         pid: '68X3255',
-        summary: "Today was my first day at office and it went horribly bad. I was fucking crying from inside, only I know how I controlled my tears. I am fucking terrified for my next day. And all those people looking me with their wide eyes, is more embarrassing. Looking for someone to release my stress. If anyone went through this experience is much needed."
-    },
-    {
-        name: 'Valentina',
-        age: '30',
-        gender: 'female',
-        location: 'Mexico',
-        pid: '69Y3255',
-        summary: "I struggle with depression and chronic pain. I had to give up my profissional life because of my illness and then realised I don't really have any friends. I always had a great relationship with people, but ever since I got sick they have turned their back on me. Looking for positivity and positive friends. High hopes"
+        summary: "So here's my secret: I got stuck in boys washroom when I was in 6th class, by mistake. And somehow sweaper found out and got me out. That was the most embarassing moment for me, whole class was laughing at me 🤡🤡. I can connect with anyone, only if your secret excites me 😃."
     },
 ]
 
