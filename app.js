@@ -57,7 +57,7 @@ let male = [{
 //         gender: 'female',
 //         location: 'India',
 //         pid: '69P2976',
-//         summary: " As a dedicated foodie, pet lover, and part-time author. From exploring street food to cuddling up with my furry friends, life is too kind to me. And in my free time, I plan someone's murder, not to afraid I write crime thriller novels. Hehe "
+//         summary: " A dedicated foodie, pet lover, and part-time author. From exploring street food to cuddling up with my furry friends, life is too kind to me. And in my free time, I plan someone's murder, not to afraid, I write crime thriller novels. Hehe "
 //     },
 //     {
 //         name: 'Katrin',
@@ -118,7 +118,14 @@ let male = [{
 // ]
 
 let female = [
-
+    {
+        name: 'Yuvika',
+        age: '20',
+        gender: 'female',
+        location: 'India',
+        pid: '69P2976',
+        summary: " A dedicated foodie, pet lover, and part-time author. From exploring street food to cuddling up with my furry friends, life is too kind to me. And in my free time, I plan someone's murder, not to afraid, I write crime thriller novels. Hehe "
+    }
 ]
 
 var id = 30;
