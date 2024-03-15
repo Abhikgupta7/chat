@@ -118,14 +118,7 @@ let male = [{
 // ]
 
 let female = [
-    {
-        name: 'Eshita',
-        age: '22',
-        gender: 'female',
-        location: 'India',
-        pid: '68X3255',
-        summary: "So here's my secret: I got stuck in boys washroom when I was in 6th class, by mistake. And somehow sweaper found out and got me out. That was the most embarassing moment for me, whole class was laughing at me 🤡🤡. I can connect with anyone, only if your secret excites me 😃."
-    },
+
 ]
 
 var id = 30;
